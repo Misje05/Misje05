@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My favourite projects
+<p>Fotreg, my introduction to react programming.</p>
+
 ## Contact Info
-<hr>
-<p>If you are interested in AI and robotics as I am, let's connect on LinkedIn</p>
+<p>If you are interested in programming adn technolegy as I am, let's connect on <a href="https://www.linkedin.com/in/magnus-misje-a621b4361/">LinkedIn</a></p>
