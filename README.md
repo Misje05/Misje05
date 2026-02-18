@@ -1,6 +1,6 @@
 # Hi, I'm Magnus 👋
 
-![Python](https://img.shields.io/badge/build-passing-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/build-blue?style=for-the-badge)
 ![sfewf](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 <!--
