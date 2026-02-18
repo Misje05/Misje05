@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## About me
 <p>
 🚀I am a developer who loves soulving problems, programming and, of course, AI<br>
-🤖I have completed some projects mainly in the field of programming and develloping but more is on the way<br>
+🤖I have completed some projects mainly in the field of programming and develloping, but more is on the way<br>
 💪I am curious, eager to learn and love new challenges
 </p>
 
