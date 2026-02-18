@@ -1,6 +1,7 @@
 # Hi there, I'm Magnus 👋
 
 ![Python](https://img.shields.io/badge/Python-blue)
+![sfewf](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 <!--
 **Misje05/Misje05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
