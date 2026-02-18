@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-<p>🚀I am a developer who loves robotics, programming and, of course, AI</p>
-<p>🤖I have completed various projects mainly in the field of computer vision, deep learning and robotics</p>
-<p>💪I am curious, eager to learn and love new challenges</p>
+<p>
+🚀I am a developer who loves robotics, programming and, of course, AI<br>
+🤖I have completed various projects mainly in the field of computer vision, deep learning and robotics<br>
+💪I am curious, eager to learn and love new challenges
+</p>
 
 ## My favourite projects
 <p>Fotreg, my introduction to react programming.</p>
