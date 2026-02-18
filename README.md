@@ -1,9 +1,9 @@
 # Hi, I'm Magnus 👋
-
+<!--
 ![Python](https://img.shields.io/badge/build-blue?style=for-the-badge)
 ![sfewf](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
-<!--
+
 **Misje05/Misje05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Technical Skills
 <ul>
-  <li>Languages: Java, SQL, JavaScript, Python, HTML, CSS</li>
+  <li>Languages: Java, SQL, JavaScript, Python, HTML, CSS, JSON</li>
   <li>Frontend: React</li>
   <li>Backend: PostgeSQL</li>
   <li>Other: Linux (Ubuntu server setup, SSH configuration)</li>
