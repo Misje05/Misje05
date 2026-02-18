@@ -1,4 +1,4 @@
-# Hi there, I'm Magnus 👋
+# Hi, I'm Magnus 👋
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![sfewf](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
@@ -20,14 +20,22 @@ Here are some ideas to get you started:
 
 ## About me
 <p>
-🚀I am a developer who loves soulving problems, programming and, of course, AI<br>
-🤖I have completed some projects mainly in the field of programming and develloping, but more is on the way<br>
-💪I am curious, eager to learn and love new challenges
+🎓 Data Engineering student (2nd year)
+💻 Java | SQL | React | Backend development
+🚀 Interested in system development, scalable solutions and fintech
 </p>
 
 ## My favourite projects
 <p>Fotreg, my introduction to react programming.</p>
 <p>There is more to come 😄</p>
 
-## Contact Info
+## Technical Skills
+<ul>
+  <li>Languages: Java, SQL, JavaScript, Python, HTML, CSS</li>
+  <li>Frontend: React</li>
+  <li>Backend: PostgeSQL</li>
+  <li>Other: Linux (Ubuntu server setup, SSH configuration)</li>
+</ul>
+
+## Connect
 <p>If you are interested in programming adn technolegy as I am, let's connect on <a href="https://www.linkedin.com/in/magnus-misje-a621b4361/">LinkedIn</a>!</p>
