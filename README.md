@@ -1,6 +1,6 @@
 # Hi, I'm Magnus 👋
 
-![Python](https://img.shields.io/badge/Python-blue)
+![Python](https://img.shields.io/badge/build-passing-blue?style=for-the-badge)
 ![sfewf](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 
 <!--
@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## About me
 <p>
-🎓 Data Engineering student (2nd year)
-💻 Java | SQL | React | Backend development
+🎓 Data Engineering student (2nd year) <br>
+💻 Java | SQL | React | Backend development <br>
 🚀 Interested in system development, scalable solutions and fintech
 </p>
 
