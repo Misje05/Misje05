@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I'm Magnus 👋
 
 <!--
 **Misje05/Misje05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-🚀I am a developer who loves robotics, programming and, of course, AI
-🤖I have completed various projects mainly in the field of computer vision, deep learning and robotics
-💪I am curious, eager to learn and love new challenges
+<p>🚀I am a developer who loves robotics, programming and, of course, AI</p>
+<p>🤖I have completed various projects mainly in the field of computer vision, deep learning and robotics</p>
+<p>💪I am curious, eager to learn and love new challenges</p>
 
 ## My favourite projects
 <p>Fotreg, my introduction to react programming.</p>
