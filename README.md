@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Misje05/Misje05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hei
+## Contact Info
+<hr>
+<p>If you are interested in AI and robotics as I am, let's connect on LinkedIn</p>
