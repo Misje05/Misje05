@@ -1,5 +1,5 @@
 # Hi, I'm Magnus 👋
-<!--
+
 ![Python](https://camo.githubusercontent.com/46e10218a43117e92edad284350356c731a4fb419586141b5c91a3803edfa6a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565)
 ![Linux](https://camo.githubusercontent.com/13ecf8308dd447edcef2bafd36de23b6539b35f24c18be96fd53d12241ec7db0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
 ![Python](https://img.shields.io/badge/build-blue?style=for-the-badge)
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
 
 ## About me
 <p>
