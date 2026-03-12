@@ -22,18 +22,20 @@
 ### Backend / Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
-
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Bonobo Git](https://img.shields.io/badge/Bonobo_Git_Server-68217A?style=for-the-badge&logo=git&logoColor=white)
+![TomEE](https://img.shields.io/badge/Apache_TomEE-F8DC75?style=for-the-badge&logo=apache&logoColor=black)
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
-![Bonobo Git](https://img.shields.io/badge/Bonobo_Git_Server-68217A?style=for-the-badge&logo=git&logoColor=white)
-![TomEE](https://img.shields.io/badge/Apache_TomEE-F8DC75?style=for-the-badge&logo=apache&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
