@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 <img src="https://cdn-icons-png.flaticon.com/128/136/136525.png" style="width: 50px; height: 50px;">
 <img src="https://cdn-icons-png.flaticon.com/128/136/136526.png" style="width: 50px; height: 50px;">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
 
 ## About me
 <p>
