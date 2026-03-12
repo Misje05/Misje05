@@ -67,22 +67,6 @@ Java, frontend UI, backend logic
 
 ---
 
-# GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Misje05&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misje05&layout=compact&theme=tokyonight)
-
-![GitHub streak](https://streak-stats.demolab.com/?user=Misje05&theme=tokyonight)
-
----
-
-# Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Misje05&theme=tokyo-night)
-
----
-
 # Coding Practice
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Misje05/)
