@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ## My favourite projects
 <p>Fotreg, my introduction to react programming.</p>
+<p>Poker, a fullstack up and coming project.</p>
 <p>There is more to come 😄</p>
 
 ## Technical Skills
@@ -37,6 +38,11 @@ Here are some ideas to get you started:
   <li>Frontend: React</li>
   <li>Backend: PostgeSQL</li>
   <li>Other: Linux (Ubuntu server setup, SSH configuration)</li>
+</ul>
+
+## My Links 
+<ul>
+  <li><a href="https://leetcode.com/u/Misje05/">LeetCode</a></li>
 </ul>
 
 ## Connect
