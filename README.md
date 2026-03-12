@@ -20,7 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" style="width: 50px; height: 50px;">
+<img src="https://cdn-icons-png.flaticon.com/128/16020/16020753.png" style="width: 50px; height: 50px;">
 <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" style="width: 50px; height: 50px;">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" style="width: 50px; height: 50px;">
+<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" style="width: 50px; height: 50px;">
+<img src="https://cdn-icons-png.flaticon.com/128/136/136525.png" style="width: 50px; height: 50px;">
+<img src="https://cdn-icons-png.flaticon.com/128/136/136526.png" style="width: 50px; height: 50px;">
+
 
 ## About me
 <p>
@@ -29,10 +36,12 @@ Here are some ideas to get you started:
 🚀 Interested in system development, scalable solutions and fintech
 </p>
 
+
 ## My favourite projects
 <p>Fotreg, my introduction to react programming.</p>
 <p>Poker, a fullstack up and coming project.</p>
 <p>There is more to come 😄</p>
+
 
 ## Technical Skills
 <ul>
@@ -42,10 +51,12 @@ Here are some ideas to get you started:
   <li>Other: Linux (Ubuntu server setup, SSH configuration)</li>
 </ul>
 
+
 ## My Links 
 <ul>
   <li><a href="https://leetcode.com/u/Misje05/">LeetCode</a></li>
 </ul>
+
 
 ## Connect
 <p>If you are interested in programming adn technolegy as I am, let's connect on <a href="https://www.linkedin.com/in/magnus-misje-a621b4361/">LinkedIn</a>!</p>
