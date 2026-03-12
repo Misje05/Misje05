@@ -1,4 +1,98 @@
-# Hi, I'm Magnus 👋
+# Hi, I'm Magnus Misje 👋
+
+🎓 Data Engineering Student  
+💻 Backend & System Development  
+🚀 Interested in scalable systems, databases and fintech
+
+---
+
+# Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend / Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+
+---
+
+# Featured Projects
+
+### FotReg
+Football training registration system for parents and clubs.
+
+Features:
+- Parent login
+- Multiple children per parent
+- Training registration system
+- Subscription / clip-card model
+
+Tech:
+React, Backend API, Database
+
+---
+
+### Poker
+Fullstack poker project currently under development.
+
+Focus:
+- Game logic
+- Backend architecture
+- UI and interaction
+
+Tech:
+Java, frontend UI, backend logic
+
+---
+
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight)
+
+---
+
+# Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)
+
+---
+
+# Coding Practice
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/USERNAME/)
+
+---
+
+# Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
+
+---
+
+⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
+
+
+
+
+<!--# Hi, I'm Magnus 👋
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,4 +160,4 @@
 
 
 ## Connect
-<p>If you are interested in programming adn technolegy as I am, let's connect on <a href="https://www.linkedin.com/in/magnus-misje-a621b4361/">LinkedIn</a>!</p>
+<p>If you are interested in programming adn technolegy as I am, let's connect on <a href="https://www.linkedin.com/in/magnus-misje-a621b4361/">LinkedIn</a>!</p>-->
