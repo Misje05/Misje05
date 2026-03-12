@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" style="width: 50px; height: 50px;">
+
 ## About me
 <p>
 🎓 Data Engineering student (2nd year) <br>
