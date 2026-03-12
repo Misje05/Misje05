@@ -34,7 +34,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Misje05/Misje05/blob/output/github-contribution-grid-snake.svg)
 
 ## About me
 <p>
