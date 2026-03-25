@@ -10,12 +10,12 @@
 
 <p>
   <!-- Java -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background:#ffffff; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   </span>
 
   <!-- JavaScript -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background:#fffe1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   </span>
 
