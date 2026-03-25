@@ -10,7 +10,7 @@
 
 <p>
   <!-- Java -->
-  <span style="display:inline-block; background:#ffffff; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background-color:#ffffff; padding:10px; border-radius:12px; margin:5px; height: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   </span>
 
