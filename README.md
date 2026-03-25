@@ -8,37 +8,86 @@
 
 # Tech Stack
 
-<h3>💻 Languages</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-</p>
+  <!-- Java -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  </span>
 
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-</p>
+  <!-- JavaScript -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  </span>
 
-<h3>🗄️ Backend / Data</h3>
-<p>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://camo.githubusercontent.com/bff695f8afffa56236d175e6697488503ac96e59a5747bdd0d8c97072699b571/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c)" width="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45" title="JSON"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring"/>
-</p>
+  <!-- Python -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  </span>
 
-<h3>⚙️ Tools</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" title="Apache TomEE"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" title="Ubuntu"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" title="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <!-- React -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  </span>
+
+  <!-- HTML -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  </span>
+
+  <!-- CSS -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  </span>
+
+  <!-- PostgreSQL -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  </span>
+
+  <!-- Spring -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
+  </span>
+
+  <!-- Git -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  </span>
+
+  <!-- GitHub -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  </span>
+
+  <!-- Docker -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  </span>
+
+  <!-- Linux -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  </span>
+
+  <!-- Ubuntu -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
+  </span>
+
+  <!-- IntelliJ -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+  </span>
+
+  <!-- VS Code -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  </span>
+
+  <!-- SSH (bash icon) -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
+  </span>
 </p>
 <!--
 ### Languages
