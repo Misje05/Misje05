@@ -10,17 +10,17 @@
 
 <p>
   <!-- Java -->
-  <div style="display:inline-block; background-color:#ffffff; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background:#1efe1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  </div>
+  </span>
 
   <!-- JavaScript -->
-  <span style="display:inline-block; background:#fffe1e; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   </span>
 
   <!-- Python -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+  <span style="display:inline-block; background:#1f1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   </span>
 
