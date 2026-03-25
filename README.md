@@ -34,19 +34,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   </span>
 
-  <!-- Python -->
+  <!-- Spring -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
+  </span>
+
+  <!-- Python
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  </span>
+  </span>-->
 
   <!-- PostgreSQL -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  </span>
-
-  <!-- Spring -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
   </span>
 
   <!-- Git -->
@@ -59,10 +59,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   </span>
 
-  <!-- Docker -->
+  <!-- Docker 
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  </span>
+  </span>-->
 
   <!-- Linux -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -74,6 +74,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
   </span>
 
+  <!-- SSH (bash icon) -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
+  </span>
+
   <!-- IntelliJ -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
@@ -82,11 +87,6 @@
   <!-- VS Code -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-  </span>
-
-  <!-- SSH (bash icon) -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
   </span>
 </p>
 <!--
