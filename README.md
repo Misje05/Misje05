@@ -4,7 +4,8 @@
 💻 Backend & System Development  
 🚀 Interested in scalable systems, databases and fintech
 
----
+<!--->
+<br>
 
 # Tech Stack
 
@@ -119,7 +120,8 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
 -->
 
----
+<!--->
+<br>
 
 # Featured Projects
 
@@ -135,7 +137,8 @@ Features:
 Tech:
 React, Backend API, Database
 
----
+<!--->
+<br>
 
 ### Poker
 Fullstack poker project currently under development.
@@ -148,18 +151,24 @@ Focus:
 Tech:
 Java, frontend UI, backend logic
 
----
+<!--->
+<br>
 
 # Coding Practice
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Misje05/)
 
----
+<!--->
+<br>
 
 # Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magnus-misje-a621b4361/)
 
----
+![snake gif](https://github.com/Misje05/Misje05/blob/output/github-snake-dark.svg)
+
+<br>
 
 ⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
+
+
