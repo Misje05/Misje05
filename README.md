@@ -25,9 +25,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   </span>
 
+  <!-- TypeScript
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  </span> -->
+
    <!-- React -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  </span>
+
+  <!-- VS Code -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   </span>
   
   <!-- Java -->
@@ -39,6 +49,26 @@
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
   </span>
+
+  <!-- IntelliJ -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
+  </span>
+
+  <!-- C#
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
+  </span> -->
+
+  <!-- .NET
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
+  </span> -->
+
+  <!-- Visual Studio
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
+  </span> -->
 
   <!-- Python
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -78,16 +108,6 @@
   <!-- SSH (bash icon) -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
-  </span>
-
-  <!-- IntelliJ -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
-  </span>
-
-  <!-- VS Code -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   </span>
 </p>
 <!--
@@ -138,7 +158,7 @@ Tech:
 React, Backend API, Database
 
 <!--->
-<br>
+
 
 ### Poker
 Fullstack poker project currently under development.
@@ -159,7 +179,6 @@ Java, frontend UI, backend logic
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Misje05/)
 
 <!--->
-<br>
 
 # Connect
 
