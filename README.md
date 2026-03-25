@@ -24,7 +24,7 @@
 
 <h3>🗄️ Backend / Data</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://camo.githubusercontent.com/bff695f8afffa56236d175e6697488503ac96e59a5747bdd0d8c97072699b571/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f737467726573716c)" width="45" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="45" title="JSON"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring"/>
 </p>
