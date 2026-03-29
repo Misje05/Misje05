@@ -11,33 +11,6 @@
 # Tech Stack
 
 <p>
-  <!-- TomEE -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://tomee.apache.org/img/logo.png" height="40"/>
-  </span>
-
-  <!-- HTML -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_tomee/apache_tomee-icon.svg" height="40"/>
-  </span>
-
-  <!-- HTML -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </span>
-
-  <!-- HTML -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Bonobo Git Server"/>
-  </span>
-
-  <!-- HTML -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://raw.githubusercontent.com/jakubgarfield/Bonobo-Git-Server/master/Bonobo.Git.Server/Content/logo.png" height="40"/>
-  </span>
-</p>
-
-<p>
   <!-- HTML -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
