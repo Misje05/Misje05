@@ -125,6 +125,44 @@
 
 <br>
 
+<!--
+# Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚽ FotReg
+Football training registration system for parents and clubs.
+
+**Features:**
+- Parent login
+- Multiple children per parent
+- Training registration system
+- Subscription / clip-card model
+
+**Tech:** React · Backend API · Database
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🃏 Poker
+Fullstack poker project currently under development.
+
+**Focus:**
+- Game logic
+- Backend architecture
+- UI and interaction
+
+**Tech:** Java · Frontend UI · Backend logic
+
+    </td>
+  </tr>
+</table>
+
+
+<br>
+-->
 
 # Featured Projects
 
