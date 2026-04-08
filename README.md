@@ -2,8 +2,8 @@
 
 🎓 Data Engineering Student  
 💻 Backend & System Development  
-🚀 Interested in scalable systems, databases and fintech
-🌐 [Portfolio](https://misje05.github.io/Portfolio/)
+🚀 Interested in scalable systems, databases and fintech <br>
+🌐 Here is my [Portfolio](https://misje05.github.io/Portfolio/)
 
 
 <br>
@@ -126,70 +126,26 @@
 
 <br>
 
-<!--
-# Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+# Featured Projects
 
 ### ⚽ FotReg
 Football training registration system for parents and clubs.
+Parent login, multiple children per parent, training registration and subscription model.
+**Tech:** React · .NET · PostgreSQL · REST API
 
-**Features:**
-- Parent login
-- Multiple children per parent
-- Training registration system
-- Subscription / clip-card model
-
-**Tech:** React · Backend API · Database
-
-    </td>
-    <td width="50%" valign="top">
+<br>
 
 ### 🃏 Poker
 Fullstack poker project currently under development.
-
-**Focus:**
-- Game logic
-- Backend architecture
-- UI and interaction
-
-**Tech:** Java · Frontend UI · Backend logic
-
-    </td>
-  </tr>
-</table>
-
+Focus on game logic, backend architecture and UI interaction.
+**Tech:** Java · Spring · Frontend UI
 
 <br>
--->
 
-# Featured Projects
-
-### FotReg
-Football training registration system for parents and clubs.
-
-Features:
-- Parent login
-- Multiple children per parent
-- Training registration system
-- Subscription / clip-card model
-
-Tech:
-React, Backend API, Database
-
-
-### Poker
-Fullstack poker project currently under development.
-
-Focus:
-- Game logic
-- Backend architecture
-- UI and interaction
-
-Tech:
-Java, frontend UI, backend logic
+### 🌐 Portfolio
+Personal portfolio website showcasing my projects and skills.
+**Live:** [magnusmisje.no](https://misje05.github.io)
 
 
 <br>
