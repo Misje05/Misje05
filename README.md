@@ -145,7 +145,7 @@ Focus on game logic, backend architecture and UI interaction.
 
 ### 🌐 Portfolio
 Personal portfolio website showcasing my projects and skills.
-**Live:** [magnusmisje.no](https://misje05.github.io)
+**Live:** [magnusmisje.no](https://misje05.github.io/Portfolio/)
 
 
 <br>
