@@ -3,6 +3,7 @@
 🎓 Data Engineering Student  
 💻 Backend & System Development  
 🚀 Interested in scalable systems, databases and fintech
+🌐 [Portfolio](https://misje05.github.io/Portfolio/)
 
 
 <br>
