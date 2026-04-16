@@ -130,14 +130,14 @@
 # Featured Projects
 
 ### ⚽ FotReg
-Football training registration system for parents and clubs.
+Football training registration system for parents and clubs currently under development.
 Parent login, multiple children per parent, training registration and subscription model.
 **Tech:** React · .NET · PostgreSQL · REST API
 
 <br>
 
 ### 🃏 Poker
-Fullstack poker project currently under development.
+Fullstack poker project with online sessions.
 Focus on game logic, backend architecture and UI interaction.
 **Tech:** Java · Spring · Frontend UI
 
