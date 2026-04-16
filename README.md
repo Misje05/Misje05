@@ -92,10 +92,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   </span>
 
-  <!-- TomEE 
+  <!-- TomEE --> 
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://tomee.apache.org/img/logo.png" height="40" title="TomEE"/>
-  </span>-->
+  </span>
 
   <!-- Docker 
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
