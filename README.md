@@ -140,6 +140,7 @@ Parent login, multiple children per parent, training registration and subscripti
 Fullstack poker project with online sessions.
 Focus on game logic, backend architecture and UI interaction.
 **Tech:** Java · Spring · Frontend UI
+**Live:** [here](http://ider-database.westeurope.cloudapp.azure.com:8081/poker/login)
 
 <br>
 
