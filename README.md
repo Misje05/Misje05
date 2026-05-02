@@ -135,7 +135,7 @@
 # Featured Projects
 
 ### 💪 TrainingLog 
-Training logging application created puerly for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
+Training logging application created purely for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
 The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
 User interface coming soon. <br>
 **Tech:** .NET · API · Docker · SQL · Backend <br>
