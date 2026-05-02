@@ -135,19 +135,19 @@
 # Featured Projects
 
 ### 💪 TrainingLog 
-##### Under development
 Training logging application created puerly for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
 The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
 User interface coming soon. 
 **Tech:** .NET · API · Docker · SQL · Backend  
+##### Under development
 
 <br>
 
 ### ⚽ FotReg 
-##### Under development
 Football training registration system for parents and clubs currently under development.
 Parent login, multiple children per parent, training registration and subscription model.
 **Tech:** React · .NET · PostgreSQL · REST API
+##### Under development
 
 <br>
 
