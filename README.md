@@ -37,10 +37,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   </span>
 
-  <!-- VS Code -->
+  <!-- VS Code
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-  </span>
+  </span> -->
   
   <!-- Java -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -52,10 +52,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring"/>
   </span>
 
-  <!-- IntelliJ -->
+  <!-- IntelliJ
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
-  </span>
+  </span> -->
 
   <!-- C# -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -64,7 +64,7 @@
 
   <!-- .NET -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
   </span>
 
   <!-- Swagger -->
@@ -72,10 +72,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger"/>
   </span>
 
-  <!-- Visual Studio -->
+  <!-- Visual Studio
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
-  </span>
+  </span> -->
 
   <!-- Python
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -85,6 +85,11 @@
   <!-- PostgreSQL -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  </span>
+
+   <!-- Docker -->
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   </span>
 
   <!-- Git -->
@@ -100,11 +105,6 @@
   <!-- TomEE --> 
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://tomee.apache.org/img/logo.png" height="40" title="TomEE"/>
-  </span>
-
-  <!-- Docker -->
-  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   </span>
 
   <!-- Linux -->
@@ -134,7 +134,8 @@
 
 # Featured Projects
 
-### 💪 TrainingLog under development
+### 💪 TrainingLog 
+##### Under development
 Training logging application created puerly for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
 The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
 User interface coming soon. 
@@ -142,7 +143,8 @@ User interface coming soon.
 
 <br>
 
-### ⚽ FotReg under development
+### ⚽ FotReg 
+##### Under development
 Football training registration system for parents and clubs currently under development.
 Parent login, multiple children per parent, training registration and subscription model.
 **Tech:** React · .NET · PostgreSQL · REST API
@@ -166,12 +168,12 @@ Personal portfolio website showcasing my projects and skills.
 <br>
 
 
-# Coding Practice
+### Coding Practice
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Misje05/)
 
 
-# Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/magnus-misje-a621b4361/)
 
@@ -183,7 +185,8 @@ Personal portfolio website showcasing my projects and skills.
 
 
 ⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
-😜 You might think this page is Ai generated but jsut think of it as greatly optimized collaboration.
+<br>
+😜 It might look AI-generated, but it’s really the result of optimized collaboration.
 
 
 
