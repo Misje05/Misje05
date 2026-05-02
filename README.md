@@ -2,8 +2,8 @@
 
 🎓 Data Engineering Student  
 💻 Backend & System Development  
-🚀 Interested in scalable systems, databases and fintech <br>
-🌐 Here is my [Portfolio](https://misje05.github.io/Portfolio/)
+🚀 Passionate about fintech, APIs and real-world systems  
+🌐 Portfolio: [misje05.github.io/Portfolio](https://misje05.github.io/Portfolio/)
 
 
 <br>
@@ -137,31 +137,31 @@
 ### 💪 TrainingLog 
 Training logging application created puerly for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
 The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
-User interface coming soon. 
-**Tech:** .NET · API · Docker · SQL · Backend  
-##### Under development
+User interface coming soon. <br>
+**Tech:** .NET · API · Docker · SQL · Backend <br>
+**Under development**
 
 <br>
 
 ### ⚽ FotReg 
 Football training registration system for parents and clubs currently under development.
-Parent login, multiple children per parent, training registration and subscription model.
-**Tech:** React · .NET · PostgreSQL · REST API
-##### Under development
+Parent login, multiple children per parent, training registration and subscription model. <br>
+**Tech:** React · .NET · PostgreSQL · REST API <br>
+**Under development**
 
 <br>
 
 ### 🃏 Poker
 Fullstack poker project with online sessions.
-Focus on game logic, backend architecture and UI interaction.
-**Tech:** Java · Spring · Frontend UI
+Focus on game logic, backend architecture and UI interaction. <br>
+**Tech:** Java · Spring · Frontend UI <br>
 **Live:** [here](http://ider-database.westeurope.cloudapp.azure.com:8081/poker/login)
 
 <br>
 
 ### 🌐 Portfolio
-Personal portfolio website showcasing my projects and skills. 
-**Tech:** React · TailWindCSS · Github Pages
+Personal portfolio website showcasing my projects and skills. <br>
+**Tech:** React · TailWindCSS · Github Pages <br>
 **Live:** [here](https://misje05.github.io/Portfolio/)
 
 
@@ -184,8 +184,6 @@ Personal portfolio website showcasing my projects and skills.
 <br>
 
 
-⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
-<br>
 😜 It might look AI-generated, but it’s really the result of optimized collaboration.
 
 
