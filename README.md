@@ -67,6 +67,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
   </span> -->
 
+  <!-- Swagger 
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger"/>
+  </span> -->
+
   <!-- Visual Studio
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
@@ -145,7 +150,8 @@ Focus on game logic, backend architecture and UI interaction.
 <br>
 
 ### 🌐 Portfolio
-Personal portfolio website showcasing my projects and skills.
+Personal portfolio website showcasing my projects and skills. 
+**Tech:** React · TailWindCSS · Github Pages
 **Live:** [here](https://misje05.github.io/Portfolio/)
 
 
