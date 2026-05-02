@@ -57,25 +57,25 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA"/>
   </span>
 
-  <!-- C#
+  <!-- C# -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  </span> -->
+  </span>
 
-  <!-- .NET
+  <!-- .NET -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET"/>
-  </span> -->
+  </span>
 
-  <!-- Swagger 
+  <!-- Swagger -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" title="Swagger"/>
-  </span> -->
+  </span>
 
-  <!-- Visual Studio
+  <!-- Visual Studio -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
-  </span> -->
+  </span>
 
   <!-- Python
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -102,10 +102,10 @@
     <img src="https://tomee.apache.org/img/logo.png" height="40" title="TomEE"/>
   </span>
 
-  <!-- Docker 
+  <!-- Docker -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  </span>-->
+  </span>
 
   <!-- Linux -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
@@ -134,7 +134,15 @@
 
 # Featured Projects
 
-### ⚽ FotReg
+### 💪 TrainingLog under development
+Training logging application created puerly for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
+The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
+User interface coming soon. 
+**Tech:** .NET · API · Docker · SQL · Backend  
+
+<br>
+
+### ⚽ FotReg under development
 Football training registration system for parents and clubs currently under development.
 Parent login, multiple children per parent, training registration and subscription model.
 **Tech:** React · .NET · PostgreSQL · REST API
@@ -175,6 +183,7 @@ Personal portfolio website showcasing my projects and skills.
 
 
 ⭐ I enjoy building systems, learning new technologies and solving algorithmic problems.
+😜 You might think this page is Ai generated but jsut think of it as greatly optimized collaboration.
 
 
 
