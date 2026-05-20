@@ -27,6 +27,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   </span>
 
+  <!-- AJAX 
+  <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*EppBJ58XIDlGpzGx.png" width="40" title="AJAX"/>
+  </span> -->
+
   <!-- TypeScript -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
@@ -99,7 +104,7 @@
 
   <!-- GitHub -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" width="40" title="GitHub"/>
   </span>
 
   <!-- TomEE --> 
@@ -114,7 +119,7 @@
 
   <!-- Ubuntu -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/ubuntu_logo_icon_167735.png" width="40" title="Ubuntu"/>
   </span>
 
   <!-- SSH (bash icon) -->
