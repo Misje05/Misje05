@@ -161,6 +161,7 @@ Fullstack poker project with online sessions.
 Focus on game logic, backend architecture and UI interaction. <br>
 **Tech:** Java · Spring · Frontend UI <br>
 **Live:** [here](http://ider-database.westeurope.cloudapp.azure.com:8081/poker/login)
+PS. Might not work when school server is down :)
 
 <br>
 
