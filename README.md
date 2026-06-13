@@ -127,10 +127,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
   </span>
   
-  <!-- JSON 
+  <!-- JSON -->
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" title="JSON"/>
-  </span>-->
+  </span>
 </p>
 
 
@@ -148,14 +148,6 @@ User interface is currently under development. <br>
 
 <br>
 
-### ⚽ FotReg 
-Football training registration system for parents and clubs currently under development.
-Parent login, multiple children per parent, training registration and subscription model. <br>
-**Tech:** React · .NET · PostgreSQL · REST API <br>
-**Under development**
-
-<br>
-
 ### 🃏 Poker
 Fullstack poker project with online sessions.
 Focus on game logic, backend architecture and UI interaction. <br>
@@ -169,6 +161,14 @@ PS. Might not work when school server is down :)
 Personal portfolio website showcasing my projects and skills. <br>
 **Tech:** React · TailWindCSS · Github Pages <br>
 **Live:** [here](https://misje05.github.io/Portfolio/)
+
+<br>
+
+### ⚽ FotReg 
+Football training registration system for parents and clubs currently under development.
+Parent login, multiple children per parent, training registration and subscription model. <br>
+**Tech:** React · .NET · PostgreSQL · REST API <br>
+**Under development**
 
 
 <br>
