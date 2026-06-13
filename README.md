@@ -127,10 +127,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="SSH"/>
   </span>
   
-  <!-- JSON -->
+  <!-- JSON 
   <span style="display:inline-block; background:#1e1e1e; padding:10px; border-radius:12px; margin:5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" title="JSON"/>
-  </span>
+  </span>-->
 </p>
 
 
