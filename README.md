@@ -3,7 +3,7 @@
 🎓 Data Engineering Student  
 💻 Backend & System Development  
 🚀 Passionate about fintech, APIs and real-world systems  
-🌐 Portfolio: [misje05.github.io/Portfolio](https://misje05.github.io/Portfolio/)
+📜 Portfolio: [misje05.github.io/Portfolio](https://misje05.github.io/Portfolio/)
 
 
 <br>
@@ -157,10 +157,18 @@ PS. Might not work when school server is down :)
 
 <br>
 
-### 🌐 Portfolio
+### 📜 Portfolio
 Personal portfolio website showcasing my projects and skills. <br>
 **Tech:** React · TailWindCSS · Github Pages <br>
 **Live:** [here](https://misje05.github.io/Portfolio/)
+
+<br>
+
+### 🌐 Hub
+Personal hub which is the connection point of my creations and a blog for what I'm currently working on. <br>
+**Tech:** React · TailwindCSS · GitHub Pages <br>
+**Live:** [here](https://misje05.github.io) <br>
+**Under development**
 
 <br>
 
