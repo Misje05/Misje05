@@ -198,7 +198,7 @@ Parent login, multiple children per parent, training registration and subscripti
 <br>
 
 
-😜 It might look AI-generated, but it’s really the result of optimized collaboration.
+It might look AI-generated, but it’s really the result of optimized collaboration 😜
 
 
 
