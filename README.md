@@ -141,9 +141,17 @@
 
 ### 💪 TrainingLog 
 Training logging application created purely for practise, with C#, .NET, Swagger, containorized backend and database, all in one project. 
-The program is currently able to connect with swagger and use all the CRUD operations live with database saving. 
+The program is currently able to connect backend API and use CRUD operations live with database saving in a React frontend. 
 User interface is currently under development. <br>
-**Tech:** .NET · API · Docker · SQL · Backend <br>
+**Tech:** .NET · API · Docker · SQL · Backend · React <br>
+**Under development**
+
+<br>
+
+### ⚽ FotReg 
+Football training registration system for parents and clubs currently under development.
+Parent login, multiple children per parent, training registration and subscription model. <br>
+**Tech:** React · .NET · PostgreSQL · REST API · Stripe <br>
 **Under development**
 
 <br>
@@ -170,13 +178,6 @@ Personal hub which is the connection point of my creations and a blog for what I
 **Live:** [here](https://misje05.github.io) <br>
 **Under development**
 
-<br>
-
-### ⚽ FotReg 
-Football training registration system for parents and clubs currently under development.
-Parent login, multiple children per parent, training registration and subscription model. <br>
-**Tech:** React · .NET · PostgreSQL · REST API <br>
-**Under development**
 
 
 <br>
