@@ -151,7 +151,7 @@ User interface is currently under development. <br>
 ### ⚽ FotReg 
 Football training registration system for parents and clubs currently under development.
 Parent login, multiple children per parent, training registration and subscription model. <br>
-**Tech:** React · .NET · PostgreSQL · REST API · Stripe <br>
+**Tech:** React · .NET · PostgreSQL · REST API · Stripe <br> 
 **Under development**
 
 <br>
